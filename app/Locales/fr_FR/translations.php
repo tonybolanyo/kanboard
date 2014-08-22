@@ -191,7 +191,6 @@ return array(
     'Edit project access list' => 'Modifier l\'accès au projet',
     'Edit users access' => 'Modifier les utilisateurs autorisés',
     'Allow this user' => 'Autoriser cet utilisateur',
-    'Project access list for "%s"' => 'Liste des accès au projet « %s »',
     'Only those users have access to this project:' => 'Seulement ces utilisateurs ont accès à ce projet :',
     'Don\'t forget that administrators have access to everything.' => 'N\'oubliez pas que les administrateurs ont accès à tout.',
     'revoke' => 'révoquer',
